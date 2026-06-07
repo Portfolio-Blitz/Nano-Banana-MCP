@@ -21,3 +21,7 @@ coverage/
 # Build files
 *.tsbuildinfo
 config.bat
+
+# env files (restored — supply-chain remediation)
+.env*
+!.env.example
